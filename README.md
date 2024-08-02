@@ -1,6 +1,4 @@
 # setup-node
-<<<<<<< HEAD
-=======
 
 [![basic-validation](https://github.com/actions/setup-node/actions/workflows/basic-validation.yml/badge.svg)](https://github.com/actions/setup-node/actions/workflows/basic-validation.yml)
 [![versions](https://github.com/actions/setup-node/actions/workflows/versions.yml/badge.svg)](https://github.com/actions/setup-node/actions/workflows/versions.yml)
@@ -217,4 +215,3 @@ Contributions are welcome! See [Contributor's Guide](docs/contributors.md)
 ## Code of Conduct
 
 :wave: Be nice. See [our code of conduct](CODE_OF_CONDUCT.md)
->>>>>>> 11ae606 (node setup)
